@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(150, 199, 242)
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.img{
+    width: 25px;
+}
+.searchContainer{
+    background-color: white;
+    width: 300px;
+    display: flex;
+    margin: auto;
+    padding: 15px;
+    border-radius: 35px;
+}
+.inputBox{
+    border: none;
+    background-color: white;
+    outline: none;
+    padding-left: 15px;
+}
